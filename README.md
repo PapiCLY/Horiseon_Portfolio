@@ -31,4 +31,4 @@ The following images shows the final web application's appearance and functional
 ![Alt text](assets/images/01-html-css-git-homework-demo.png)
 
 ## Link to Github Pages
-https://papicly.github.io/homework--6-22-23/
+https://papicly.github.io/Horiseon_Portfolio/
