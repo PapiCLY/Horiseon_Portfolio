@@ -28,6 +28,7 @@ Then I find a concise, descriptive title
 The following images shows the final web application's appearance and functionality:
 
 ![Alt text](assets/01-html-css-git-homework-demo.png)
+![Alt text](assets/images/01-html-css-git-homework-demo.png)
 
 ## Link to Github Pages
 https://papicly.github.io/homework--6-22-23/
